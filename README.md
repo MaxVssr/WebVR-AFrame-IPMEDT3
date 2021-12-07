@@ -1,5 +1,7 @@
 # WebVR-AFrame-IPMEDT3
 
+```February 1st 2020```
+
 ## Scope/Purpose
 
 This project was created as part of a course I followed for my bachelor in Computer Science. The main goal was to create 
